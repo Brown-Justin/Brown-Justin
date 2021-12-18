@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brown-Justin
 - 👀 I’m interested in data analytics, machine learning, and sentiment analysis.
-- 🌱 I’m currently learning Data Analytic through Google Certificates on Coursera
+- 🌱 I’m currently learning Data Analytics through Google Certificates on Coursera
 - 💞️ I’m looking to collaborate on exciting projects!
 - 📫 How to reach me Brown.G.Justin@gmail.com
 
